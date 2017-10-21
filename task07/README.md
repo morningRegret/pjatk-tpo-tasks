@@ -1,4 +1,4 @@
-# pjatk-utp-tasks/task07
+# pjatk-tpo-tasks/task07
 
 Siódme zadanie laboratoryjne z przedmiotu TPO.
 

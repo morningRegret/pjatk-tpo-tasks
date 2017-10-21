@@ -1,4 +1,4 @@
-# pjatk-utp-tasks/task11
+# pjatk-tpo-tasks/task11
 
 Jedenaste zadanie laboratoryjne z przedmiotu TPO.
 

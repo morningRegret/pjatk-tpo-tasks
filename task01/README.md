@@ -1,4 +1,4 @@
-# pjatk-utp-tasks/task01
+# pjatk-tpo-tasks/task01
 
 Pierwsze zadanie laboratoryjne z przedmiotu TPO.
 

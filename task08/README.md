@@ -1,4 +1,4 @@
-# pjatk-utp-tasks/task08
+# pjatk-tpo-tasks/task08
 
 Ósme zadanie laboratoryjne z przedmiotu TPO.
 

@@ -1,4 +1,4 @@
-# pjatk-utp-tasks/task03
+# pjatk-tpo-tasks/task03
 
 Trzecie zadanie laboratoryjne z przedmiotu TPO.
 

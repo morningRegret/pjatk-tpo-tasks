@@ -1,4 +1,4 @@
-# pjatk-utp-tasks/task04
+# pjatk-tpo-tasks/task04
 
 Czwarte zadanie laboratoryjne z przedmiotu TPO.
 

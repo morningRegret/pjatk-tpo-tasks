@@ -1,4 +1,4 @@
-# pjatk-utp-tasks/task13
+# pjatk-tpo-tasks/task13
 
 Trzynaste zadanie laboratoryjne z przedmiotu TPO.
 

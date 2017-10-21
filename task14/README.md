@@ -1,4 +1,4 @@
-# pjatk-utp-tasks/task14
+# pjatk-tpo-tasks/task14
 
 Czternaste zadanie laboratoryjne z przedmiotu TPO.
 

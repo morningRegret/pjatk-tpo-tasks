@@ -1,4 +1,4 @@
-# pjatk-utp-tasks/task12
+# pjatk-tpo-tasks/task12
 
 Drunaste zadanie laboratoryjne z przedmiotu TPO.
 

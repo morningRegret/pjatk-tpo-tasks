@@ -1,4 +1,4 @@
-# pjatk-utp-tasks/task02
+# pjatk-tpo-tasks/task02
 
 Drugie zadanie laboratoryjne z przedmiotu TPO.
 

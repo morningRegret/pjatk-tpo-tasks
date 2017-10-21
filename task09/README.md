@@ -1,4 +1,4 @@
-# pjatk-utp-tasks/task09
+# pjatk-tpo-tasks/task09
 
 Dziewiąte zadanie laboratoryjne z przedmiotu TPO.
 

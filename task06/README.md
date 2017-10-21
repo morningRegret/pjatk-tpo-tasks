@@ -1,4 +1,4 @@
-# pjatk-utp-tasks/task06
+# pjatk-tpo-tasks/task06
 
 Szóste zadanie laboratoryjne z przedmiotu TPO.
 

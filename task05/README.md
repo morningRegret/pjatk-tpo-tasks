@@ -1,4 +1,4 @@
-# pjatk-utp-tasks/task05
+# pjatk-tpo-tasks/task05
 
 Piąte zadanie laboratoryjne z przedmiotu TPO.
 
