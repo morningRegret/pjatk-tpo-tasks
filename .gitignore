@@ -1,0 +1,32 @@
+#
+# .gitignore
+#
+# Copyright (c) 2017 Adrian Kashivskyy. All rights reserved.
+# Licensed under the MIT License.
+#
+
+.DS_Store
+.Trashes
+.localized
+
+.project
+.classpath
+.settings
+.loadpath
+.recommenders
+.idea
+
+bin
+out
+tmp
+
+*.class
+*.jar
+*.war
+*.ear
+*.tmp
+*.bak
+*.swp
+*.iws
+*.iml
+*.properties
