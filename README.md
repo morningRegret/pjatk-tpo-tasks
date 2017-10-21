@@ -1,4 +1,4 @@
-# pjatk-utp-tasks
+# pjatk-tpo-tasks
 
 Kolekcja zadań laboratoryjnych z przedmiotu TPO.
 
@@ -16,8 +16,8 @@ Kolekcja zadań laboratoryjnych z przedmiotu TPO.
 10. [XML Web Services - Introduction](task10)
 11. [XML Web Services - MTOM Transport](task11)
 12. [XML Web Services - MTOM and JPA](task12)
-13. [WebAPI - Introduction](task12)
-14. [COBRA](task12)
+13. [WebAPI - Introduction](task13)
+14. [COBRA](task14)
 
 ## Licencja
 
