@@ -1,0 +1,8 @@
+#
+# .gitignore
+#
+# Copyright © 2018 Adrian Kashivskyy. All rights reserved.
+#
+
+orb.db
+src/akashivskyy/tpo/task14/generated

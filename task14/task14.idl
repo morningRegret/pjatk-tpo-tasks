@@ -1,0 +1,23 @@
+//
+// task14.idl
+//
+// Copyright © 2018 Adrian Kashivskyy. All rights reserved.
+//
+
+module akashivskyy {
+    module tpo {
+        module task14 {
+            module generated {
+
+                interface EchoInterface {
+                    string echo(in string message);
+                };
+
+                interface AddInterface {
+                    long add(in long a, in long b);
+                };
+
+            };
+        };
+    };
+};
