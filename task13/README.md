@@ -2,6 +2,14 @@
 
 Trzynaste zadanie laboratoryjne z przedmiotu TPO.
 
+## Wymagania
+
+To zadanie wymaga trzech zewnętrznych bibliotek z Maven:
+
+- `org.glassfish.jersey.bundles:jaxrs-ri:2.26`
+- `org.glassfish.jersey.test-framework:jersey-test-framework-core:2.26`
+- `org.glassfish.jersey.test-framework.providers:jersey-test-framework-provider-grizzly2:2.26`
+
 ## Otwieranie
 
 Po sklonowaniu repozytorium, projekt należy otworzyć (lub zaimportować) w IDE własnego wyboru.
