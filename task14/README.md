@@ -20,7 +20,7 @@ Po ukończeniu powyższej konfiguracji projekt należy otworzyć (lub zaimportow
 
 ## Licencja
 
-Kod źródłowy jest objęty linencją MIT. Treść licencji jest dostępna w pliku [LICENSE.md](../LICENSE.md).
+Kod źródłowy jest objęty licencją [Creative Commons BY-SA 4.0](../LICENSE.txt).
 
 ---
 

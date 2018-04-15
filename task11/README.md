@@ -8,7 +8,7 @@ Po sklonowaniu repozytorium, projekt należy otworzyć (lub zaimportować) w IDE
 
 ## Licencja
 
-Kod źródłowy jest objęty linencją MIT. Treść licencji jest dostępna w pliku [LICENSE.md](../LICENSE.md).
+Kod źródłowy jest objęty licencją [Creative Commons BY-SA 4.0](../LICENSE.txt).
 
 ---
 
